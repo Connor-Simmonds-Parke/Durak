@@ -1,0 +1,111 @@
+New game with a deck size of 36
+The Trump Card is The Ace of Clubs
+Connor drew the The Six of Diamonds
+Opponent drew the The Ten of Clubs
+Connor drew the The Ten of Hearts
+Opponent drew the The Ace of Diamonds
+Connor drew the The Ace of Spades
+Opponent drew the The Nine of Spades
+Connor drew the The King of Diamonds
+Opponent drew the The Queen of Hearts
+Connor drew the The Jack of Diamonds
+Opponent drew the The Seven of Clubs
+Connor drew the The Nine of Diamonds
+Opponent drew the The King of Clubs
+Opponent Attacked with The Nine of Spades
+Connor defended against The Nine of Spades with The Ace of Spades
+Opponent Attacked with The Ace of Diamonds
+Connor doesn't Defend and has Picked Up to end the turn. End of turn 1
+Connor has Picked Up the The Ace of Spades from the River
+Connor has Picked Up the The Ace of Diamonds from the River
+Because Connor didn't Defend they also draw the Face Down
+Opponent drew the The Jack of Spades
+Opponent drew the The Nine of Clubs
+Opponent Attacked with The Seven of Clubs
+Connor doesn't Defend and has Picked Up to end the turn. End of turn 2
+Connor has Picked Up the The Seven of Clubs from the River
+Because Connor didn't Defend they also draw the Face Down
+Opponent drew the The Ten of Diamonds
+Opponent Attacked with The Nine of Clubs
+Connor doesn't Defend and has Picked Up to end the turn. End of turn 3
+Connor has Picked Up the The Nine of Clubs from the River
+Because Connor didn't Defend they also draw the Face Down
+Opponent drew the The Eight of Spades
+Opponent Attacked with The Eight of Spades
+Connor defended against The Eight of Spades with The Seven of Clubs
+Opponent drew the The King of Hearts
+Opponent Passed their Attack. End of turn 5
+Connor Attacked with The Six of Clubs
+Opponent successfully Defended with The Ten of Clubs
+Connor Attacked with The Ten of Hearts
+Opponent successfully Defended with The Jack of Spades
+Connor Attacked with The Jack of Diamonds
+Opponent successfully Defended with The Queen of Hearts
+Connor Attacked with The Queen of Diamonds
+Opponent successfully Defended with The King of Hearts
+Connor Attacked with The Queen of Spades
+Opponent successfully Defended with The King of Clubs
+Connor Attacked with The King of Diamonds
+Opponent couldn't Defend and Picked Up. End of turn5
+Opponent Picked Up The Ten of Clubs from the River
+Opponent Picked Up The Jack of Spades from the River
+Opponent Picked Up The Queen of Hearts from the River
+Opponent Picked Up The King of Hearts from the River
+Opponent Picked Up The King of Clubs from the River
+Opponent Picked Up The King of Diamonds from the River
+Because the Opponent couldn't Defend they also drew The Nine of Hearts
+Connor drew the The Ace of Hearts
+Connor Attacked with The Nine of Clubs
+Opponent successfully Defended with The Ten of Clubs
+Connor Attacked with The Nine of Diamonds
+Opponent successfully Defended with The Ten of Diamonds
+Connor has Passed their Attack to end the turn. End of turn 6
+Connor drew the The Eight of Clubs
+Connor drew the The Eight of Hearts
+Opponent Attacked with The Nine of Hearts
+Connor defended against The Nine of Hearts with The Ace of Hearts
+Connor drew the The Seven of Diamonds
+Opponent drew the The Seven of Spades
+Opponent Passed their Attack. End of turn 8
+Connor Attacked with The Six of Diamonds
+Opponent successfully Defended with The Seven of Spades
+Connor Attacked with The Seven of Diamonds
+Opponent successfully Defended with The Jack of Spades
+Connor has Passed their Attack to end the turn. End of turn 8
+Connor drew the The Six of Spades
+Opponent drew the The Queen of Clubs
+Connor drew the The Eight of Diamonds
+Opponent drew the The King of Spades
+Opponent Attacked with The Queen of Hearts
+Connor defended against The Queen of Hearts with The Eight of Clubs
+Opponent Attacked with The Queen of Clubs
+Connor doesn't Defend and has Picked Up to end the turn. End of turn 9
+Connor has Picked Up the The Eight of Clubs from the River
+Connor has Picked Up the The Queen of Clubs from the River
+Because Connor didn't Defend they also draw the Face Down
+Opponent drew the The Six of Hearts
+Opponent drew the The Ten of Spades
+Opponent Attacked with The Six of Hearts
+Connor defended against The Six of Hearts with The Seven of Hearts
+Opponent drew the The Jack of Hearts
+Opponent Passed their Attack. End of turn 11
+Connor Attacked with The Six of Spades
+Opponent successfully Defended with The Ten of Spades
+Connor has Passed their Attack to end the turn. End of turn 11
+Opponent drew the The Jack of Clubs
+Opponent Attacked with The Jack of Hearts
+Connor defended against The Jack of Hearts with The Queen of Clubs
+Opponent Attacked with The Jack of Clubs
+Connor doesn't Defend and has Picked Up to end the turn. End of turn 12
+Connor has Picked Up the The Queen of Clubs from the River
+Connor has Picked Up the The Jack of Clubs from the River
+Because Connor didn't Defend they also draw the The Ace of Clubs
+Opponent Attacked with The King of Spades
+Connor defended against The King of Spades with The Ace of Spades
+Opponent Attacked with The King of Diamonds
+Connor defended against The King of Diamonds with The Ace of Diamonds
+Opponent Attacked with The King of Hearts
+Connor defended against The King of Hearts with The Ace of Clubs
+Opponent Attacked with The King of Clubs
+Connor has Lost the Game!
+

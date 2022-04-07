@@ -1,0 +1,52 @@
+New game with a deck size of 20
+The Trump Card is The Ten of Diamonds
+Player drew the The Queen of Spades
+Opponent drew the Face Down
+Player drew the The Ace of Spades
+Opponent drew the Face Down
+Player drew the The Queen of Diamonds
+Opponent drew the Face Down
+Player drew the The Ten of Hearts
+Opponent drew the Face Down
+Player drew the The King of Diamonds
+Opponent drew the Face Down
+Player drew the The Ace of Diamonds
+Opponent drew the Face Down
+Player Attacked with The Ten of Hearts
+Opponent successfully Defended with The Jack of Clubs
+Player has Passed their Attack to end the turn. End of turn 1
+Player drew the The Ace of Clubs
+Opponent drew the Face Down
+Opponent Attacked with The Jack of Spades
+Player defended against The Jack of Spades with The Queen of Spades
+Opponent Attacked with The Jack of Hearts
+Player defended against The Jack of Hearts with The Ace of Spades
+Opponent Attacked with The Queen of Clubs
+Player defended against The Queen of Clubs with The Ace of Clubs
+Player drew the The Jack of Diamonds
+Opponent drew the Face Down
+Player drew the The Ten of Clubs
+Opponent drew the Face Down
+Player drew the The Ten of Spades
+Opponent drew the The Ten of Diamonds
+Opponent Passed their Attack. End of turn 3
+Player Attacked with The Ten of Clubs
+Opponent successfully Defended with The Queen of Hearts
+Player Attacked with The Ten of Spades
+Opponent successfully Defended with The King of Hearts
+Player Attacked with The Queen of Diamonds
+Opponent couldn't Defend and Picked Up. End of turn3
+Opponent Picked Up The Queen of Hearts from the River
+Opponent Picked Up The King of Hearts from the River
+Opponent Picked Up The Queen of Diamonds from the River
+Player Attacked with The Ace of Diamonds
+Opponent couldn't Defend and Picked Up. End of turn4
+Opponent Picked Up The Ace of Diamonds from the River
+Player Attacked with The King of Diamonds
+Opponent successfully Defended with The Ace of Diamonds
+Player has Passed their Attack to end the turn. End of turn 5
+Opponent Attacked with The Queen of Hearts
+Player defended against The Queen of Hearts with The Jack of Diamonds
+Player has Won the Game!
+Player has Won the Game!
+

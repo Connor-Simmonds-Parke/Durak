@@ -1,0 +1,50 @@
+C:\Users\Connor Laptop\source\repos\Durak\CardLibrary\bin\Debug\CardLibrary.exe.config
+C:\Users\Connor Laptop\source\repos\Durak\CardLibrary\bin\Debug\CardLibrary.exe
+C:\Users\Connor Laptop\source\repos\Durak\CardLibrary\bin\Debug\CardLibrary.pdb
+C:\Users\Connor Laptop\source\repos\Durak\CardLibrary\obj\Debug\CardLibrary.csprojAssemblyReference.cache
+C:\Users\Connor Laptop\source\repos\Durak\CardLibrary\obj\Debug\CardLibrary.Properties.Resources.resources
+C:\Users\Connor Laptop\source\repos\Durak\CardLibrary\obj\Debug\CardLibrary.csproj.GenerateResource.cache
+C:\Users\Connor Laptop\source\repos\Durak\CardLibrary\obj\Debug\CardLibrary.exe
+C:\Users\Connor Laptop\source\repos\Durak\CardLibrary\obj\Debug\CardLibrary.pdb
+C:\Users\yungo\Downloads\Durak (3)\Durak (1)\Durak\CardLibrary\bin\Debug\CardLibrary.exe.config
+C:\Users\yungo\Downloads\Durak (3)\Durak (1)\Durak\CardLibrary\bin\Debug\CardLibrary.exe
+C:\Users\yungo\Downloads\Durak (3)\Durak (1)\Durak\CardLibrary\bin\Debug\CardLibrary.pdb
+C:\Users\yungo\Downloads\Durak (3)\Durak (1)\Durak\CardLibrary\obj\Debug\CardLibrary.csprojAssemblyReference.cache
+C:\Users\yungo\Downloads\Durak (3)\Durak (1)\Durak\CardLibrary\obj\Debug\CardLibrary.Properties.Resources.resources
+C:\Users\yungo\Downloads\Durak (3)\Durak (1)\Durak\CardLibrary\obj\Debug\CardLibrary.csproj.GenerateResource.cache
+C:\Users\yungo\Downloads\Durak (3)\Durak (1)\Durak\CardLibrary\obj\Debug\CardLibrary.csproj.CoreCompileInputs.cache
+C:\Users\yungo\Downloads\Durak (3)\Durak (1)\Durak\CardLibrary\obj\Debug\CardLibrary.exe
+C:\Users\yungo\Downloads\Durak (3)\Durak (1)\Durak\CardLibrary\obj\Debug\CardLibrary.pdb
+C:\Users\Connor Laptop\Downloads\Durak (3)(1)\Durak (3)\Durak (1)\Durak\CardLibrary\bin\Debug\CardLibrary.exe.config
+C:\Users\Connor Laptop\Downloads\Durak (3)(1)\Durak (3)\Durak (1)\Durak\CardLibrary\bin\Debug\CardLibrary.exe
+C:\Users\Connor Laptop\Downloads\Durak (3)(1)\Durak (3)\Durak (1)\Durak\CardLibrary\bin\Debug\CardLibrary.pdb
+C:\Users\Connor Laptop\Downloads\Durak (3)(1)\Durak (3)\Durak (1)\Durak\CardLibrary\obj\Debug\CardLibrary.csprojAssemblyReference.cache
+C:\Users\Connor Laptop\Downloads\Durak (3)(1)\Durak (3)\Durak (1)\Durak\CardLibrary\obj\Debug\CardLibrary.Properties.Resources.resources
+C:\Users\Connor Laptop\Downloads\Durak (3)(1)\Durak (3)\Durak (1)\Durak\CardLibrary\obj\Debug\CardLibrary.csproj.GenerateResource.cache
+C:\Users\Connor Laptop\Downloads\Durak (3)(1)\Durak (3)\Durak (1)\Durak\CardLibrary\obj\Debug\CardLibrary.exe
+C:\Users\Connor Laptop\Downloads\Durak (3)(1)\Durak (3)\Durak (1)\Durak\CardLibrary\obj\Debug\CardLibrary.pdb
+C:\Users\Connor Laptop\Downloads\Durak (1)\Durak\CardLibrary\bin\Debug\CardLibrary.exe.config
+C:\Users\Connor Laptop\Downloads\Durak (1)\Durak\CardLibrary\bin\Debug\CardLibrary.exe
+C:\Users\Connor Laptop\Downloads\Durak (1)\Durak\CardLibrary\bin\Debug\CardLibrary.pdb
+C:\Users\Connor Laptop\Downloads\Durak (1)\Durak\CardLibrary\obj\Debug\CardLibrary.csprojAssemblyReference.cache
+C:\Users\Connor Laptop\Downloads\Durak (1)\Durak\CardLibrary\obj\Debug\CardLibrary.Properties.Resources.resources
+C:\Users\Connor Laptop\Downloads\Durak (1)\Durak\CardLibrary\obj\Debug\CardLibrary.csproj.GenerateResource.cache
+C:\Users\Connor Laptop\Downloads\Durak (1)\Durak\CardLibrary\obj\Debug\CardLibrary.exe
+C:\Users\Connor Laptop\Downloads\Durak (1)\Durak\CardLibrary\obj\Debug\CardLibrary.pdb
+C:\Users\Connor Laptop\Downloads\Durak\Durak\CardLibrary\bin\Debug\CardLibrary.exe.config
+C:\Users\Connor Laptop\Downloads\Durak\Durak\CardLibrary\bin\Debug\CardLibrary.exe
+C:\Users\Connor Laptop\Downloads\Durak\Durak\CardLibrary\bin\Debug\CardLibrary.pdb
+C:\Users\Connor Laptop\Downloads\Durak\Durak\CardLibrary\obj\Debug\CardLibrary.csprojAssemblyReference.cache
+C:\Users\Connor Laptop\Downloads\Durak\Durak\CardLibrary\obj\Debug\CardLibrary.Properties.Resources.resources
+C:\Users\Connor Laptop\Downloads\Durak\Durak\CardLibrary\obj\Debug\CardLibrary.csproj.GenerateResource.cache
+C:\Users\Connor Laptop\Downloads\Durak\Durak\CardLibrary\obj\Debug\CardLibrary.exe
+C:\Users\Connor Laptop\Downloads\Durak\Durak\CardLibrary\obj\Debug\CardLibrary.pdb
+D:\Downloads\Durak\CardLibrary\bin\Debug\CardLibrary.exe.config
+D:\Downloads\Durak\CardLibrary\bin\Debug\CardLibrary.exe
+D:\Downloads\Durak\CardLibrary\bin\Debug\CardLibrary.pdb
+D:\Downloads\Durak\CardLibrary\obj\Debug\CardLibrary.csproj.AssemblyReference.cache
+D:\Downloads\Durak\CardLibrary\obj\Debug\CardLibrary.Properties.Resources.resources
+D:\Downloads\Durak\CardLibrary\obj\Debug\CardLibrary.csproj.GenerateResource.cache
+D:\Downloads\Durak\CardLibrary\obj\Debug\CardLibrary.csproj.CoreCompileInputs.cache
+D:\Downloads\Durak\CardLibrary\obj\Debug\CardLibrary.exe
+D:\Downloads\Durak\CardLibrary\obj\Debug\CardLibrary.pdb

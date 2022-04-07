@@ -1,0 +1,53 @@
+New game with a deck size of 20
+The Trump Card is The King of Clubs
+Connor drew the The Queen of Diamonds
+Opponent drew the The Jack of Diamonds
+Connor drew the The Ace of Spades
+Opponent drew the The Ten of Hearts
+Connor drew the The Jack of Clubs
+Opponent drew the The King of Spades
+Connor drew the The Ten of Clubs
+Opponent drew the The Queen of Clubs
+Connor drew the The King of Diamonds
+Opponent drew the The Queen of Spades
+Connor drew the The Queen of Hearts
+Opponent drew the The Ace of Diamonds
+Connor has Passed their Attack to end the turn. End of turn 1
+Opponent Attacked with The Ten of Hearts
+Connor doesn't Defend and has Picked Up to end the turn. End of turn 2
+Connor has Picked Up the The Ten of Hearts from the River
+Because Connor didn't Defend they also draw the Face Down
+Opponent drew the The Ace of Clubs
+Opponent Attacked with The Jack of Diamonds
+Connor doesn't Defend and has Picked Up to end the turn. End of turn 3
+Connor has Picked Up the The Jack of Diamonds from the River
+Because Connor didn't Defend they also draw the Face Down
+Opponent drew the The Jack of Spades
+Opponent Attacked with The Jack of Spades
+Connor doesn't Defend and has Picked Up to end the turn. End of turn 4
+Connor has Picked Up the The Jack of Spades from the River
+Because Connor didn't Defend they also draw the Face Down
+Opponent drew the The Jack of Hearts
+Opponent Attacked with The Jack of Hearts
+Connor doesn't Defend and has Picked Up to end the turn. End of turn 5
+Connor has Picked Up the The Jack of Hearts from the River
+Because Connor didn't Defend they also draw the Face Down
+Opponent drew the The King of Clubs
+Opponent Attacked with The Queen of Spades
+Connor doesn't Defend and has Picked Up to end the turn. End of turn 6
+Connor has Picked Up the The Queen of Spades from the River
+Opponent Attacked with The King of Spades
+Connor doesn't Defend and has Picked Up to end the turn. End of turn 7
+Connor has Picked Up the The King of Spades from the River
+Opponent Attacked with The Queen of Clubs
+Connor doesn't Defend and has Picked Up to end the turn. End of turn 8
+Connor has Picked Up the The Queen of Clubs from the River
+Opponent Attacked with The Ace of Diamonds
+Connor doesn't Defend and has Picked Up to end the turn. End of turn 9
+Connor has Picked Up the The Ace of Diamonds from the River
+Opponent Attacked with The King of Clubs
+Connor doesn't Defend and has Picked Up to end the turn. End of turn 10
+Connor has Picked Up the The King of Clubs from the River
+Opponent Attacked with The Ace of Clubs
+Connor has Lost the Game!
+

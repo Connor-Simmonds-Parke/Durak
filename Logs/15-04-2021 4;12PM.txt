@@ -1,0 +1,93 @@
+New game with a deck size of 36
+The Trump Card is The King of Diamonds
+Player drew the The Ace of Hearts
+Opponent drew the The King of Hearts
+Player drew the The Eight of Hearts
+Opponent drew the The Ten of Spades
+Player drew the The Nine of Clubs
+Opponent drew the The Eight of Spades
+Player drew the The Six of Diamonds
+Opponent drew the The Six of Spades
+Player drew the The Seven of Hearts
+Opponent drew the The Nine of Hearts
+Player drew the The Queen of Hearts
+Opponent drew the The Ace of Spades
+Player has Passed their Attack to end the turn. End of turn 1
+Opponent Attacked with The Six of Spades
+Player doesn't Defend and has Picked Up to end the turn. End of turn 2
+Player has Picked Up the The Six of Spades from the River
+Because Player didn't Defend they also draw the Face Down
+Opponent drew the The Jack of Clubs
+Opponent Attacked with The Eight of Spades
+Player doesn't Defend and has Picked Up to end the turn. End of turn 3
+Player has Picked Up the The Eight of Spades from the River
+Because Player didn't Defend they also draw the Face Down
+Opponent drew the The Nine of Diamonds
+Opponent Attacked with The Nine of Hearts
+Player doesn't Defend and has Picked Up to end the turn. End of turn 4
+Player has Picked Up the The Nine of Hearts from the River
+Because Player didn't Defend they also draw the Face Down
+Opponent drew the The King of Spades
+Opponent Attacked with The Ten of Spades
+Player doesn't Defend and has Picked Up to end the turn. End of turn 5
+Player has Picked Up the The Ten of Spades from the River
+Because Player didn't Defend they also draw the Face Down
+Opponent drew the The Jack of Diamonds
+Opponent Attacked with The Jack of Clubs
+Player doesn't Defend and has Picked Up to end the turn. End of turn 6
+Player has Picked Up the The Jack of Clubs from the River
+Because Player didn't Defend they also draw the Face Down
+Opponent drew the The Eight of Clubs
+Opponent Attacked with The Eight of Clubs
+Player doesn't Defend and has Picked Up to end the turn. End of turn 7
+Player has Picked Up the The Eight of Clubs from the River
+Because Player didn't Defend they also draw the Face Down
+Opponent drew the The Ten of Diamonds
+Opponent Attacked with The King of Spades
+Player doesn't Defend and has Picked Up to end the turn. End of turn 8
+Player has Picked Up the The King of Spades from the River
+Because Player didn't Defend they also draw the Face Down
+Opponent drew the The Seven of Spades
+Opponent Attacked with The Seven of Spades
+Player doesn't Defend and has Picked Up to end the turn. End of turn 9
+Player has Picked Up the The Seven of Spades from the River
+Because Player didn't Defend they also draw the Face Down
+Opponent drew the The Queen of Spades
+Opponent Attacked with The Queen of Spades
+Player doesn't Defend and has Picked Up to end the turn. End of turn 10
+Player has Picked Up the The Queen of Spades from the River
+Because Player didn't Defend they also draw the Face Down
+Opponent drew the The Queen of Diamonds
+Opponent Attacked with The King of Hearts
+Player doesn't Defend and has Picked Up to end the turn. End of turn 11
+Player has Picked Up the The King of Hearts from the River
+Because Player didn't Defend they also draw the Face Down
+Opponent drew the The Ten of Hearts
+Opponent Attacked with The Ten of Hearts
+Player doesn't Defend and has Picked Up to end the turn. End of turn 12
+Player has Picked Up the The Ten of Hearts from the River
+Because Player didn't Defend they also draw the Face Down
+Opponent drew the The Seven of Clubs
+Opponent Attacked with The Seven of Clubs
+Player doesn't Defend and has Picked Up to end the turn. End of turn 13
+Player has Picked Up the The Seven of Clubs from the River
+Because Player didn't Defend they also draw the Face Down
+Opponent drew the The King of Diamonds
+Opponent Attacked with The Ace of Spades
+Player doesn't Defend and has Picked Up to end the turn. End of turn 14
+Player has Picked Up the The Ace of Spades from the River
+Opponent Attacked with The Nine of Diamonds
+Player doesn't Defend and has Picked Up to end the turn. End of turn 15
+Player has Picked Up the The Nine of Diamonds from the River
+Opponent Attacked with The Ten of Diamonds
+Player doesn't Defend and has Picked Up to end the turn. End of turn 16
+Player has Picked Up the The Ten of Diamonds from the River
+Opponent Attacked with The Jack of Diamonds
+Player doesn't Defend and has Picked Up to end the turn. End of turn 17
+Player has Picked Up the The Jack of Diamonds from the River
+Opponent Attacked with The Queen of Diamonds
+Player doesn't Defend and has Picked Up to end the turn. End of turn 18
+Player has Picked Up the The Queen of Diamonds from the River
+Opponent Attacked with The King of Diamonds
+Player has Lost the Game!
+
